@@ -33,7 +33,7 @@ This also contains several .py files :-
     contain the information regarding attributes and the fields etc of the database.
     * **views.py** : This file is a crucial one, it contains all the Views(usually as classes). Views.py can be considered as a file that interacts with the client. Views are a     user interface for what we see when we render a Django Web application.
     * **urls.py** : Just like the project urls.py file, this file handles all the URLs of our web application. This file is just to link the Views in the app with the host web     URL. The settings urls.py has the endpoints corresponding to the Views.
-    * **tests.py** : This file contains the code that contains different test cases for the application. It is used to test the working of the application.
+    * **tests.py** : This file contains the code that contains different test cases for the application. It is used to test the working of the application. Empty in our case.
 3. **static** - The static folder contains all the images that we have used in our project. One can also include css in their static folder.
 4. **templates** - In django, in order to provide frontend and provide a layout to our website, we use templates. It is basically written in HTML, CSS and Javascript in an .html file. We can have any number of templates depending on the requirement of our project. It is also fine to have none of them. But in our project we have used 6 html files to buld the website :-
     * **base.html** : This is the html file which has the basic or common layout that we have used in all pages . This include the **navbar** . For including the same navbar in     all pages, we have used **extend** tag.
