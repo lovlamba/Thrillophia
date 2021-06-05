@@ -45,3 +45,15 @@ This also contains several .py files :-
     * **reach.html** : In this page we will be sharing that how one can contact the admin. We have shared the contact details & the address of the admin.
  5. **db.sqlite3** - This is the default dbms provided by django. We can use other other dbms as well but for now, we will be using db.sqlite3 as our dbms. Here we will be storing the form data that the user entered to request brochure. we have also taking the date field here.
  6. **manage.py** - y A command-line utility that allows you to interact with your Django project. It is used to execute various Django commands such as running the local web server or creating a new app.
+
+## Installation for Local-Systems
+1. Make sure you have python & Django already installed in your system.
+2. Create a folder 'thrillophia' in your home directory by mkdir thrillophia.
+3. Copy the content of the zip to the folder.
+4. Open your terminal & reach the folder "thrillophia".
+5. Then simply Run the command "python manage.py runserver".
+6. Visit http://127.0.0.1:8000/ to run the application.
+
+## Contact
+Name : Lov Lamba
+Gmail : lovlamba940@gmail.com
