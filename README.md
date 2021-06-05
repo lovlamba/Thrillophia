@@ -55,5 +55,5 @@ This also contains several .py files :-
 6. Visit http://127.0.0.1:8000/ to run the application.
 
 ## Contact
-Name : Lov Lamba
-Gmail : lovlamba940@gmail.com
+* Name : Lov Lamba
+* Gmail : lovlamba940@gmail.com
