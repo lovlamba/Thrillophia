@@ -43,8 +43,8 @@ This also contains several .py files :-
     * **contact.html** : Then we have contact page which is basically a form filling page in which we will have inputs such as name, email, whatsapp no., tour selection using radio buttons. This information will be saved in our database.
     * **about.html** : This is the page which will be showing information regarding Thrillophia. We have also used carousel in this page.
     * **reach.html** : In this page we will be sharing that how one can contact the admin. We have shared the contact details & the address of the admin.
- 5. **db.sqlite3** - This is the default dbms provided by django. We can use other other dbms as well but for now, we will be using db.sqlite3 as our dbms. Here we will be storing the form data that the user entered to request brochure. we have also taking the date field here.
- 6. **manage.py** - y A command-line utility that allows you to interact with your Django project. It is used to execute various Django commands such as running the local web server or creating a new app.
+5. **db.sqlite3** - This is the default dbms provided by django. We can use other other dbms as well but for now, we will be using db.sqlite3 as our dbms. Here we will be storing the form data that the user entered to request brochure. we have also taking the date field here.
+6. **manage.py** - y A command-line utility that allows you to interact with your Django project. It is used to execute various Django commands such as running the local web server or creating a new app.
 
 ## Improvements in the future for the present system:
 Many new features can be added on the website such as :
